@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*lgfc3NvbjOu--bfvOgXxhg.png)
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/289825650/original/22d4898e4027a40ba2f30c2df497d547fd100c7e/do-any-html-css-javascript-python-or-java-coding-work.png)
 
 <h1 align="center">Hi 👋, I'm Rəhimov Asif</h1>
 <h3 align="center">A passionate full-stcak developer from Azerbaijan</h3>
